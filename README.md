@@ -1,5 +1,5 @@
 
-# Clima ☁
+# CLimate ☁
 
 ## Our Goal
 
